@@ -5,9 +5,9 @@
 ```js
 export default {
   pronouns: 'He' | 'Him',
-  country: 'Taiwan',
+  country: 'Turkey',
   technologies:{
-    backEnd: ['nodejs', 'php'],
+    backEnd: ['nodejs', 'php', 'typescript', 'python'],
     frontEnd: ['javascript', 'jquery', 'vue'],
     database: ['mongo','mysql'],
     misc: ['sourcepawn']
