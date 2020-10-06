@@ -21,3 +21,4 @@ export default {
 <a href="https://github.com/shoxruxrashidov/Telegram-PHP-API">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=shoxruxrashidov&repo=Telegram-PHP-API" />
 </a>
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=shoxruxrashidov&count_private=true)
