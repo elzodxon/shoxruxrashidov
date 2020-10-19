@@ -9,16 +9,27 @@ export default {
   technologies:{
     backEnd: ['nodejs', 'php', 'typescript', 'python'],
     frontEnd: ['javascript', 'jquery', 'vue'],
-    database: ['mongo','mysql'],
+    database: ['mongodb','sqlite','mysql'],
     misc: ['sourcepawn']
   }
 }
 ```
 
- 
+![Shoxruxrashidov's github stats](https://github-readme-stats.vercel.app/api?username=shoxruxrashidov&show_icons=true&theme=radical&count_private=true)
 
-![stat](https://github-readme-stats.vercel.app/api?username=shoxruxrashidov&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&count_private=true)
 
-![lang](https://github-readme-stats.vercel.app/api/top-langs/?username=shoxruxrashidov)
 
-![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=shoxruxrashidov)
+![Customized Card](https://github-readme-stats.vercel.app/api/pin?username=shoxruxrashidov&repo=Telegram-PHP-API&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)
+![Customized Card](https://github-readme-stats.vercel.app/api/pin?username=shoxruxrashidov&repo=telegram-PHP-API-v2&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)
+
+![Customized Card](https://github-readme-stats.vercel.app/api/pin?username=shoxruxrashidov&repo=graphql-node-crud&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)
+![Customized Card](https://github-readme-stats.vercel.app/api/pin?username=shoxruxrashidov&repo=nodejs-restfull-api&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)
+
+![Customized Card](https://github-readme-stats.vercel.app/api/pin?username=shoxruxrashidov&repo=laravel-docker&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)
+![Customized Card](https://github-readme-stats.vercel.app/api/pin?username=shoxruxrashidov&repo=phpDocker&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)
+
+![Customized Card](https://github-readme-stats.vercel.app/api/pin?username=shoxruxrashidov&repo=todo&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)
+![Customized Card](https://github-readme-stats.vercel.app/api/pin?username=shoxruxrashidov&repo=instagram-vue-clone&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shoxruxrashidov)]
