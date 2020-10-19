@@ -32,4 +32,4 @@ export default {
 ![Customized Card](https://github-readme-stats.vercel.app/api/pin?username=shoxruxrashidov&repo=instagram-vue-clone&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shoxruxrashidov)]
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shoxruxrashidov)
