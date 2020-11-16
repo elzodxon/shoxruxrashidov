@@ -10,19 +10,6 @@
 
 ![profile views](https://komarev.com/ghpvc/?username=shoxruxrashidov)
 
-```js
-export default {
-  pronouns: 'He' | 'Him',
-  country: 'Turkey',
-  technologies:{
-    backEnd: ['nodejs', 'php', 'typescript', 'python'],
-    frontEnd: ['javascript', 'jquery', 'vue'],
-    database: ['mongodb','sqlite','mysql'],
-    misc: ['sourcepawn']
-  }
-}
-```
-
 ![Shoxruxrashidov's github stats](https://github-readme-stats.vercel.app/api?username=shoxruxrashidov&show_icons=true&theme=radical&count_private=true)
 
 
