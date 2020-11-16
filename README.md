@@ -1,4 +1,12 @@
-# Hello World 👋
+<div align="center">
+  <img src="https://static.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif" width="400px" />
+  <br>
+
+  # Hi there 👋
+  <br />
+   <br>
+
+</div>
 
 ![profile views](https://komarev.com/ghpvc/?username=shoxruxrashidov)
 
